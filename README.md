@@ -4,11 +4,8 @@
 This is the repository for Catco's Galaxy Rust.
 
 Play the game here: https://gamejolt.com/games/catcosgalaxyrust/577543
-# Build instructions
-THESE INSTRUCTIONS ARE FOR COMPILING AND EDITING CATCO'S GALAXY RUST! 
-
-PLAY THE GAME WITH THE PROVIDED LINK IF YOU JUST WANT TO PLAY THE GAME!
-IF YOU'RE COMPILING THE GAME, CONTINUE ON
+Since the mfa is too big for github, I've uploaded it to Google Drive.
+https://drive.google.com/drive/folders/1UhG0EbBcPnYR8mQ_PM0LnPSyfcOtNgvJ?usp=sharing
 
 # Download extensions 
 You'll need to Platform Movement Object, the Easing Object, and the Discord Rich Presence Object. The Platform Movement Object and the Easing Object can be installed inside fusion itself, but you'll need to manually install the Discord Rich Presence Object yourself.
