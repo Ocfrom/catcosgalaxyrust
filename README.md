@@ -11,6 +11,8 @@ PLAY THE GAME WITH THE PROVIDED LINK IF YOU JUST WANT TO PLAY THE GAME!
 IF YOU'RE COMPILING THE GAME, CONTINUE ON
 
 # Download extensions 
-You'll need to Platform Movement Object, the Easing Object, and the Discord Rich Presence Object. The Platform Movement Object and the Easing Object can be installed inside fusion itself, but you'll need to manually put the 
+You'll need to Platform Movement Object, the Easing Object, and the Discord Rich Presence Object. The Platform Movement Object and the Easing Object can be installed inside fusion itself, but you'll need to manually install the Discord Rich Presence Object yourself.
+
+Discord Rich Presence Object: https://community.clickteam.com/threads/105184-DRPC-Discord-Rich-Presence-Extension
 
 You're done! Open up the file in Clickteam and muck arround!
