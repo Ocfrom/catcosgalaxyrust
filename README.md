@@ -4,6 +4,7 @@
 This is the repository for Catco's Galaxy Rust.
 
 Play the game here: https://gamejolt.com/games/catcosgalaxyrust/577543
+
 Since the mfa is too big for github, I've uploaded it to Google Drive.
 https://drive.google.com/drive/folders/1UhG0EbBcPnYR8mQ_PM0LnPSyfcOtNgvJ?usp=sharing
 
